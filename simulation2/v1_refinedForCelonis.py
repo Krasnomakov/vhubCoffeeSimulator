@@ -1,6 +1,6 @@
 #This script generates simulation and data for eventlog. 
 #users move around three zones in the vitality Hub
-#certain rules are aplied 
+#certain rules are applied 
 #users can only take coffee after they got to coffee area 
 #when they get coffee their heart rate increases 
 #after 2 pm users start receiving messages nudging them to drink water 

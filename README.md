@@ -1,9 +1,15 @@
 ## Overview
-This repository contains files representing iterations in the simulation development process. The final result is located in the "simulation2" folder, with the main file being "v4_simulationWithCases.py". Sample event logs are stored inside folders.
+This repository contains files representing iterations in the simulation development process. It is organized into two main folders, `simulation1` and `simulation2`, each representing a different phase of development.
+
+- **[simulation1/readme.md](./simulation1/readme.md):** The first series of iterations, exploring initial concepts like user movement, heart rate, and AI agent interaction. This series has some regressions and buggy versions, but `v3.1` is noted as the most stable early version.
+
+- **[simulation2/readme.md](./simulation2/readme.md):** The second, more refined series of iterations. This series focuses on generating clean, case-based event logs for process mining. The final and most functional script, **`v4_simulationWithCases.py`**, is located here.
+
+The final result is located in the "simulation2" folder, with the main file being "v4_simulationWithCases.py". Sample event logs are stored inside folders.
 
 **Demo:** https://vimeo.com/883906069/c506d45580
 
-## Simulation Overview
+## Final Simulation Overview (`simulation2/v4_simulationWithCases.py`)
 The code simulates the daily activities of users within a facility. Users move between different rooms, consume coffee, and respond to messages from an autonomous agent.
 
 ## Constants
